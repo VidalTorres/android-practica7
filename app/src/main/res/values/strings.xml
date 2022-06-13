@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">app07</string>
+
+    <string name="userName">Patrick</string>
+
+    <string name="contraseña">12345</string>
+
+    <string name="nombre">Jose Lopez</string>
+
+    <string name="email">rvelazquez@upsin.edu.mx</string>
+
+    <string-array name="alumnos">
+
+        <item>CAMACHO AVALOS NESTOR ULISES</item>
+    
+        <item>CASILLAS GARIAS ISAI</item>
+    
+        <item>CRESPO ROJAS ERICK AMILCAR</item>
+    
+        <item>GARCIA GARZON ULISES ENRIQUE</item>
+    
+        <item>ENCINAS BALDERAS JUAN ANGEL</item>
+    
+        <item> AYALA VEGA EDSON MIGUEL</item>
+    
+        <item>OVANDO QUEVEDO DIEGO</item>
+    
+        <item>SÁNCHEZ LIZÁRRAGA JESÉ ROBERTO</item>
+    
+        <item>SÁNCHEZ PLAZOLA JOSÉ ABRAHAM</item>
+    
+        <item>QUINTERO GARCIA KEVIN FERMIN</item>
+    
+        <item>PEREZ JORDÁN JOSE AMOS</item>
+    
+        <item>SANTANA LEYVA DANIEL ANTONIO</item>
+    
+        <item>TORRES DZIB JORGE VIDAL</item>
+    
+        <item>SAENZ APODACA DANIEL</item>
+    
+        <item>RODRIGUEZ CHAVEZ CARLOS ARNOLDO</item>
+    
+        <item>PIMENTEL MENDOZA MARCO DANIEL</item>
+    
+        <item>TIRADO MILLAN TOMAS</item>
+    </string-array>
+</resources>
